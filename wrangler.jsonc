@@ -1,6 +1,8 @@
 {
   "name": "relics-of-ai",
   "compatibility_date": "2026-10-29",
+  "workers_dev": true,
+  "preview_urls": true,
   "assets": {
     "directory": ".",
     "html_handling": "auto-trailing-slash",
